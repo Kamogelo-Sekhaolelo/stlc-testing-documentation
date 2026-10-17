@@ -1,0 +1,24 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.pdb
+
+# Java / IntelliJ / Eclipse / Maven
+target/
+.idea/
+*.iml
+*.class
+
+# UiPath (local cache folders)
+.local/
+.objects/
+.screenshots/
+.tmh/
+
+# OS and Office
+Thumbs.db
+desktop.ini
+~$*
